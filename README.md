@@ -25,12 +25,13 @@ Using a Q-Learning formula we can help the agent find the rewards, positive and 
 1. **Clone the repository**:
    ```sh
    git clone https://github.com/habib-gm/Taxi-Driving-reinforcement-learning-project-a-virtual-autonomous-taxi.git
-   cd Taxi-Driving-reinforcement-learning-project-a-virtual-autonomous-taxi
+   cd Taxi-Driving-reinforcement-learning-project-a-virtual-autonomous-taxi ```
 
 2.   **install requirements**:
-    ```sh
-    pip install -r requirements.txt
+      ```sh
+      pip install -r requirements.txt
+      ```
 
-3.  **Usage**:
+4.  **Usage**:
     ```sh
-    python agent_10000_trials.py
+    python agent_10000_trials.py```
