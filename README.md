@@ -34,4 +34,4 @@ Using a Q-Learning formula we can help the agent find the rewards, positive and 
 
 4.  **Usage**:
     ```sh
-    python agent_10000_trials.py```
+    python agent_10000_trials.py
